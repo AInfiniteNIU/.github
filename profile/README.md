@@ -16,7 +16,7 @@ AInfiniteNIU 把编剧、导演和制片的手艺做成工具：电影语言怎�
 | :-- | :-- | :-- | :-- |
 | [**无限分镜 NIU·Cut**](https://github.com/AInfiniteNIU/niu-cut) | 电影语言技巧库 × AI 视频提示词编排台：选技巧、配场景，一键生成 Seedance / 可灵等模型可用的分镜提示词 | [在线打开](https://ainfiniteniu.github.io/niu-cut/) | 社区版 v1.0 |
 | 互动剧本格式标准 | 分支剧本的统一写法、节点编码与解析器 | | 即将发布 |
-| 空间连续性导演台 | 多镜头 AI 视频的空间与机位连续性换算 | | 即将发布 |
+| [**空间连续性导演台**](https://github.com/AInfiniteNIU/niu-space-director) | 多镜头 AI 视频的站位、机位与运镜连续性工作台：平面 + 3D 摆位，自动查越轴与跳位，批量导出机位图与提示词 | [在线打开](https://ainfiniteniu.github.io/niu-space-director/) | v3.4.1 |
 | AInfiniteNIU Skills | 剧本、分镜、资产清单等创作技能合集 | | 即将发布 |
 
 ## 一起做
