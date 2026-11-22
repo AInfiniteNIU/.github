@@ -8,16 +8,15 @@ AI creator tools for interactive film and AI cinema
 
 </div>
 
-AInfiniteNIU 把编剧、导演和制片的手艺做成工具：电影语言怎么用，分支剧本怎么写，AI 视频提示词怎么编排。工具都是单文件、本地运行，不需要会写代码就能打开使用。
+AInfiniteNIU 把编剧、导演和制片的手艺做成工具：电影语言怎么用，分支剧本怎么写，AI 视频提示词怎么编排。网页工具都是单文件、本地运行，打开就能用；skill 系统装进 Claude 等 AI 助手后，直接用中文提需求。
 
 ## 工具
 
 | 工具 | 做什么 | 试用 | 状态 |
 | :-- | :-- | :-- | :-- |
 | [**无限分镜 NIU·Cut**](https://github.com/AInfiniteNIU/niu-cut) | 电影语言技巧库 × AI 视频提示词编排台：选技巧、配场景，一键生成 Seedance / 可灵等模型可用的分镜提示词 | [在线打开](https://ainfiniteniu.github.io/niu-cut/) | 社区版 v1.0 |
-| 互动剧本格式标准 | 分支剧本的统一写法、节点编码与解析器 | | 即将发布 |
+| [**短剧创作者中心 skill 系统**](https://github.com/AInfiniteNIU/niu-shortdrama-skills) | 真人剧与 AI 漫剧两套 50 个 skill：平台规则问答、入驻投稿办事、投稿包与退稿诊断、选题到分集的剧本创作 | [使用手册](https://ainfiniteniu.github.io/niu-shortdrama-skills/) | v1.4.0 |
 | [**空间连续性导演台**](https://github.com/AInfiniteNIU/niu-space-director) | 多镜头 AI 视频的站位、机位与运镜连续性工作台：平面 + 3D 摆位，自动查越轴与跳位，批量导出机位图与提示词 | [在线打开](https://ainfiniteniu.github.io/niu-space-director/) | v3.4.1 |
-| AInfiniteNIU Skills | 剧本、分镜、资产清单等创作技能合集 | | 即将发布 |
 
 ## 一起做
 
